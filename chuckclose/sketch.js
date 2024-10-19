@@ -1,4 +1,5 @@
-// kees@T460:~/d/projects/p5/20240605_chuckclose$ python3 -m http.server
+// Start a server with: python3 -m http.server
+// and go to http://localhost:8000/
 
 let img
 let pencilWidth = 1
